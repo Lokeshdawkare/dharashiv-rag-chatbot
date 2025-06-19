@@ -1,0 +1,10 @@
+flask
+requests
+bs4
+langchain
+chromadb
+openrouter
+streamlit
+ollama
+PyPDF2
+pdfminer.six
